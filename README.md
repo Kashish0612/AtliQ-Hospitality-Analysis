@@ -11,8 +11,12 @@ AtliQ Grands is confronted with a significant business challenge: declining mark
 As a data analyst, my primary business objective is to evaluate the overall performance of AtliQ Grands' hotels, integrating key metrics such as revenue growth trends, room optimization, and booking analysis. By harnessing data intelligence, I aim to provide a holistic understanding of the hotels' performance, including their overall rating. This analysis will enable me to offer insightful recommendations aimed at enhancing efficiency, maximizing revenue, and improving customer satisfaction for sustained business growth.
 <h2>Dashboard & Insight</h2>
 
+![atliq_hospitality_analysis-1](https://github.com/Kashish0612/AtliQ-Hospitality-Analysis/assets/134590814/6bfbe6bd-cc5a-4534-b2e8-6e631f423f09)
 
+![atliq_hospitality_analysis-2](https://github.com/Kashish0612/AtliQ-Hospitality-Analysis/assets/134590814/dc848d16-ce3b-4865-92a6-0e667f3b52ee)
 
+![atliq_hospitality_analysis-3](https://github.com/Kashish0612/AtliQ-Hospitality-Analysis/assets/134590814/2e96e54c-2965-4834-b142-05053fe4a6ed)
 
+![atliq_hospitality_analysis-4](https://github.com/Kashish0612/AtliQ-Hospitality-Analysis/assets/134590814/2c4e1a6d-693f-43f7-a1ae-68249b7b05ab)
 
 
