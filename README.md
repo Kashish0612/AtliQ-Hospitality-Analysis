@@ -21,4 +21,12 @@ As a data analyst, my primary business objective is to evaluate the overall perf
 
 click here to view complete presentations - <a href="https://github.com/Kashish0612/AtliQ-Hospitality-Analysis/blob/main/atliq%20hospitality%20presentation.pdf">Atliq Hospitality Presentation</a>
 
+<h3>Project Learning</h3>
+<ul>
+  <li>Implementing advanced filtering options and slicers provides users with the ability to dynamically explore data based on specific criteria such as time period, property type, city, etc.</li>
+  <li>Leveraging complex DAX queries enables the creation of customized columns and facilitates data manipulation for insightful analysis.</li>
+  <li>Incorporating diverse visualization types such as bar charts, area charts, matrix tables, donut charts, slicers, and KPIs cards enhances the comprehensiveness of data representation.</li>
+  <li>Analyzing data to provide practical advice on pricing strategies considering factors like high-demand properties, cities, booking platforms, and marketing promotional strategies improves revenue management and marketing effectiveness.</li>
+  <li>Taking into account various metrics such as total bookings, ratings, revenue, and occupancy percentage ensures a holistic understanding of performance and market dynamics.</li>
+</ul>
 
