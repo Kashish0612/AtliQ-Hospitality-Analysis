@@ -19,4 +19,6 @@ As a data analyst, my primary business objective is to evaluate the overall perf
 
 ![atliq_hospitality_analysis-4](https://github.com/Kashish0612/AtliQ-Hospitality-Analysis/assets/134590814/2c4e1a6d-693f-43f7-a1ae-68249b7b05ab)
 
+click here to view complete presentations - <a href="https://github.com/Kashish0612/AtliQ-Hospitality-Analysis/blob/main/atliq%20hospitality%20presentation.pdf">Atliq Hospitality Presentation</a>
+
 
