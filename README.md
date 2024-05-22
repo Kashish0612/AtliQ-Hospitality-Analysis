@@ -9,6 +9,8 @@ AtliQ Grands is confronted with a significant business challenge: declining mark
 <br>
 <h2>My Role As Data Analyst</h2>
 As a data analyst, my primary business objective is to evaluate the overall performance of AtliQ Grands' hotels, integrating key metrics such as revenue growth trends, room optimization, and booking analysis. By harnessing data intelligence, I aim to provide a holistic understanding of the hotels' performance, including their overall rating. This analysis will enable me to offer insightful recommendations aimed at enhancing efficiency, maximizing revenue, and improving customer satisfaction for sustained business growth.
+<h2>Dashboard & Insight</h2>
+
 
 
 
